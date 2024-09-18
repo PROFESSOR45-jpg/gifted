@@ -48,7 +48,7 @@
 
 <details>
 <summary>GET YOUR SESSION_ID</summary>
-<a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
+<a href="https://api.giftedtechnexus.co.ke/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 
 - Session ID must start with **Gifted~** and is 15 characters in length.
 </details>
@@ -58,7 +58,7 @@
 <details>
 <summary>GET YOUR CREDS.JSON FILE</summary>
 
-<a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="Pairing Code" width="150"></a>
+<a href="https://api.giftedtechnexus.co.ke/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="Pairing Code" width="150"></a>
 
 </details>
 
@@ -88,7 +88,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 <summary>SESSION_ID DEPLOY</summary>
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
   
-<a href="https://web.giftedtechnexus.co.ke/deploy/platforms/heroku"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
+<a href="https://api.giftedtechnexus.co.ke/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
 </details>
 
   
@@ -150,7 +150,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
   
 - **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
 - **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
-- **Check out my [TELEGRAM BOT MD](https://web.giftedtechnexus.co.ke/bots/tg-bot) Project.**
+- **Check out my [TELEGRAM BOT MD](https://github.com/mouricedevs/telegram-bot) Project.**
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

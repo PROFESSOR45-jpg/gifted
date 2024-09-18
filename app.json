@@ -1,10 +1,10 @@
 {
   "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
-  "website": "https://web.giftedtechnexus.co.ke/sessions",
+  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make whatsapp experience better",
+  "website": "https://api.giftedtechnexus.co.ke",
   "repository": "https://github.com/mouricedevs/gifted",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-  "keywords": ["gifted-md", "giftedtech", "gifted-api", "gifted-baileys", "Gifted-Md"],
+  "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": { 
@@ -21,7 +21,7 @@
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254110853827"
+      "value": "254762016957"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -30,7 +30,7 @@
     },
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
-      "required": true,
+      "required": false,
       "value": ""
     },
      "NOT_ALLOW": {
@@ -45,7 +45,7 @@
     },
     "AUTO_READ_STATUS": {
       "description": "Put true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTO_READ": {
@@ -90,7 +90,7 @@
     },
     "PREFIX": {
       "description": "You can leave blank for bot to use multiple prefixes",
-      "required": false,
+      "required": true,
       "value": "."
     },
      "DEPLOYMENT_PLATFORM": {
@@ -117,3 +117,4 @@
     {"url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"}
   ]
     }
+
