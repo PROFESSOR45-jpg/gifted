@@ -9,7 +9,7 @@ const config = {
   AUTOLIKE_STATUS: process.env.AUTOLIKE_STATUS !== undefined ? process.env.AUTOLIKE_STATUS === 'true' : false,
   AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS !== undefined ? process.env.AUTO_REPLY_STATUS === 'true' : false,
   STATUS_READ_MSG: process.env.STATUS_READ_MSG || '✅️ Status Viewed by Gifted-Md',
-  AUTO_DOWNLOAD: process.env.AUTO_DOWNLOAD !== undefined ? process.env.AUTO_DOWNLOAD === 'true' : false,
+  AUTO_DOWNLOAD: process.env.AUTO_DOWNLOAD !== undefined ? process.env.AUTO_DOWNLOAD === 'true' : true,
   AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES !== undefined ? process.env.AUTO_READ_MESSAGES === 'true' : false,
   AUTO_TYPING: process.env.AUTO_TYPING !== undefined ? process.env.AUTO_TYPING === 'true' : false,
   AUTO_RECORDING: process.env.AUTO_RECORDING !== undefined ? process.env.AUTO_RECORDING === 'true' : false,
@@ -20,7 +20,7 @@ const config = {
   
   AUTO_REJECT_CALLS: process.env.AUTO_REJECT_CALLS !== undefined ? process.env.AUTO_REJECT_CALLS === 'true' : false, 
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
-  MODE: process.env.MODE || "private",
+  MODE: process.env.MODE || "public",
   OWNER_NAME: process.env.OWNER_NAME || "PROFESSOR",
   AUTO_BLOCK: process.env.AUTO_BLOCK || "212,99,90",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "254112658916",
